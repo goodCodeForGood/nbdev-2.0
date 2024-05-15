@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_2.0"
+  site-url: "https://goodCodeForGood.github.io/nbdev-2.0"
+  description: "Intro to nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/goodCodeForGood/nbdev-2.0"
